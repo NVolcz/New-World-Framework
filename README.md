@@ -1,10 +1,16 @@
 New-World-Framework
+A game programming framework written in the D programming language.
 ===================
 
-A game programming framework written in the D programming language.
+Background:
+This is a -proposal- for a game programming framework. It is meant to the basic structure for game, but not the mechanics. I hope this will be useful for both new and adept game developers. 
 
-The goal is to be able to say to new game programmers "Here use this" and provide an architectural foundation.
+Goals:
+  Provide an architectural foundation for new game programmers.
+  Easy to grasp.
 
 TODOs:
-Add example code.
-Add diagrams.
+  Add example code.
+  Add diagrams.
+  2dGraphicService.
+  Audio.
