@@ -1,8 +1,8 @@
-module engine.state;
+module nwf.state;
 
 import derelict.sdl2.sdl;
 
-import engine.config;
+import nwf.config;
 
 public class State
 {

@@ -1,4 +1,4 @@
-module engine.game;
+module nwf.game;
 
 import std.stdio;
 import std.string;
@@ -10,10 +10,10 @@ import core.thread;
 import derelict.sdl2.sdl;
 import derelict.opengl3.gl3;
 
-import engine.state;
-import engine.service;
-import engine.component;
-import engine.input.inputService;
+import nwf.state;
+import nwf.service;
+import nwf.component;
+import nwf.input.inputService;
 
 public class Game : IServiceProvider
 {		

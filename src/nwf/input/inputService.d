@@ -1,11 +1,11 @@
-module engine.input.inputService;
+module nwf.input.inputService;
 
 import std.stdio;
 
 import derelict.sdl2.sdl;
 
-import engine.service;
-import engine.input.action;
+import nwf.service;
+import nwf.input.action;
 
 
 class InputService : IService

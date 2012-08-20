@@ -1,10 +1,10 @@
-module engine.configLoader;
+module nwf.configLoader;
 
 import std.xml;
 import std.conv;
 
-import engine.config;
-import engine.state; 
+import nwf.config;
+import nwf.state; 
 
 public class configLoader 
 {
