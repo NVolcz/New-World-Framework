@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 New-World-Framework
 ===================
 
@@ -25,4 +24,3 @@ TODOs:
 * Add diagrams.
 * 2dGraphicService.
 * Audio.
->>>>>>> d7241e54cce7490de14b74217429b000264133e8
